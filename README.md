@@ -1,5 +1,3 @@
-<#
-.SYNOPSIS
     EventLog-Alert
 
     Ersin Isenkul
@@ -20,5 +18,3 @@
     $sender : Write a sender address. Example: "admin@admin.com"
     $mailsubject : Write a subject for e-mail. Example: "Event Alert"
     $mailserver : Write smtp server address to send e-mail. Example: "smtp.localhost.com" 
-    
-#>
