@@ -18,3 +18,7 @@
     $sender : Write a sender address. Example: "admin@admin.com"
     $mailsubject : Write a subject for e-mail. Example: "Event Alert"
     $mailserver : Write smtp server address to send e-mail. Example: "smtp.localhost.com" 
+    
+   **SAMPLE ALERT OUTPUT**
+    ![image](https://github.com/eisenkul/eventlog-alert/assets/11899703/5a727328-c29e-4ee3-983f-c6c36453b7b3)
+
